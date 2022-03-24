@@ -11,6 +11,6 @@
 <br><br>
 
 
-<img src="https://komarev.com/ghpvc/?username=patlpxD&color=yellowgreen">
+<img src="https://komarev.com/ghpvc/?username=patlpxD&style=for-the-badge&color=lightgrey">
 
 ---
