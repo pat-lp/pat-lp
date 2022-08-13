@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif)
 
-<h1 align="center">Hola 👋, mi nombre es Patricia</h1>
+<h1 align="center">Hola 👋, mi nombre es Patricia...</h1>
 <h3 align="center">Bienvenido a mi GitHub!!</h3>
 
 <h3 align="left">🌱 Actualmente estoy capacitándome en Power BI <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="25" height="25"/>.</h3>
