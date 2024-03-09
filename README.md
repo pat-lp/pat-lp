@@ -3,7 +3,6 @@
 <h1 align="center">Hola 👋, mi nombre es Patricia...</h1>
 <h3 align="center">Bienvenido a mi GitHub!!</h3>
 
-<h3 align="left">🌱 Actualmente estoy capacitándome en Data Analytics :rocket:.</h3>
 <h3 align="left">:memo: Apasionada por el análisis de datos :chart_with_upwards_trend:.</h3>
 <h3 align="left">:books: Autodidacta.</h3>
 <h3 align="left">:computer: Lenguajes y Herramientas:</h3>
