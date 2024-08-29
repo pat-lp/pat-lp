@@ -1,14 +1,32 @@
-![](https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif)
+![](https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif)<br><br>
 
 
-<br><h1 align="center">Hola 👋, mi nombre es Patricia...</h1>
-<h3 align="center">Bienvenido a mi GitHub!!</h3>
+# ¡Bienvenido a mi GitHub! 👋
 
-* <h3 align="left">:chart_with_upwards_trend: Apasionada por el análisis de datos.</h3>
-* <h3 align="left">:books: Autodidacta.</h3>
-* <h3 align="left">:computer: Lenguajes y Herramientas:</h3>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.svgrepo.com/show/255832/sql.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><a href="https://www.python.org" target="_blank"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/><img src="https://www.svgrepo.com/show/303193/microsoft-excel-2013-logo.svg" alt="excel" width="40" height="40"/></a> 
-<br>
+Hola, soy **Patricia**.
+
+## 📈 Sobre Mí
+
+Soy una apasionada por el **análisis de datos** y una **autodidacta** entusiasta, siempre en busca de nuevas oportunidades para aprender y crecer.
+
+## 🛠️ Herramientas y Tecnologías
+
+Aquí tienes un resumen de mis habilidades y herramientas favoritas:
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-FFB11A?style=flat&logo=powerbi&logoColor=black)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=patlpxD&style=for-the-badge&color=lightgrey">
+
+<p align="center">
+    <strong>¡Gracias por visitar mi perfil! 😊</strong>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=patlpxD&style=for-the-badge&color=lightgrey" alt="Visitas al perfil">
+</p>
+
