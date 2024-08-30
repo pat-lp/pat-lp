@@ -25,6 +25,6 @@ Aquí tienes un resumen de mis habilidades y herramientas favoritas:
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=patlpxD&style=for-the-badge&color=lightgrey" alt="Visitas al perfil">
+    <img src="https://komarev.com/ghpvc/?username=patlpxD&style=for-the-badge&color=blue" alt="Visitas al perfil">
 </p>
 
