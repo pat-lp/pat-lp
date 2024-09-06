@@ -12,11 +12,12 @@ Soy una apasionada por el **análisis de datos** y una **autodidacta** entusiast
 Aquí tienes un resumen de mis habilidades y herramientas favoritas:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/Power_BI-FFB11A?style=flat&logo=powerbi&logoColor=black)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![Scrum](https://img.shields.io/badge/Scrum-0066CC?style=flat&logo=scrum&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
